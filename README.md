@@ -234,7 +234,7 @@ You can test:
 ---
 
 # 🙌 Author  
-**Aditya Bhonde**  
+**Faizan Khan**  
 Smart Study Tracker — DSA-Based Project
 
 ---
